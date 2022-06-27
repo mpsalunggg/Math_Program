@@ -8,7 +8,7 @@
             <p class="text1">MENU</p>
         </div>
         <div class="tes4"> 
-            <a href="index.php">
+            <a href="index.html">
                 <input type="button" value="Back" class="button">
             </a> 
         </div>
